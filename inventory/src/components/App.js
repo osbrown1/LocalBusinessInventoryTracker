@@ -1,14 +1,14 @@
 import React from "react";
 import Header from "./Header";
-import FlavorSelection from "./FlavorSelection";
-import Inventory from "./Inventory";
+import IceCreamControl from "./IceCreamControl";
+
 
 const App = () => {
   return (
     <React.Fragment>
     <Header />
-    <FlavorSelection />
-    <Inventory />
+    <IceCreamControl />
+   
     </React.Fragment>
   );
 }
