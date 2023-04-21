@@ -1,14 +1,13 @@
 import React from "react";
 import Header from "./Header";
-import IceCreamControl from "./CreamControl";
+import CreamControl from "./CreamControl";
 
 
 const App = () => {
   return (
     <React.Fragment>
     <Header />
-    <IceCreamControl />
-   
+    <CreamControl />
     </React.Fragment>
   );
 }

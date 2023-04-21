@@ -1,8 +1,8 @@
 import React from "react";
-// import CreamList from "./CreamList";
-// import CreamDetail from './CreamDetail';
+import CreamList from "./CreamList";
+import CreamDetail from './CreamDetail';
 import EditCreamForm from './EditCreamForm';
-// import NewCreamForm from "./NewCreamForm";
+import NewCreamForm from "./NewCreamForm";
 
 
 class CreamControl extends React.Component {
