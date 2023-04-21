@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Header";
-import IceCreamControl from "./IceCreamControl";
+import IceCreamControl from "./CreamControl";
 
 
 const App = () => {

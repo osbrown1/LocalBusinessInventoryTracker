@@ -7,7 +7,7 @@ function CreamDetail(props){
   return (
     <React.Fragment>
       <h1>Ice Cream Detail</h1>
-      <h3>{cream.console} - {cream.flavor}</h3>
+      <h3>{cream.brand} - {cream.flavor}</h3>
       <p><em>{cream.rating}</em></p>
       <button onClick={ props.onClickingEdit }>Update Ice Cream</button> 
       <button onClick={()=> onClickingDelete(cream.id) }>Delete Ice Cream</button> 

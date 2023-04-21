@@ -1,7 +1,7 @@
 import React from "react";
 // import CreamList from "./CreamList";
 // import CreamDetail from './CreamDetail';
-import EditIceCreamForm from './EditIceCreamForm';
+import EditCreamForm from './EditCreamForm';
 // import NewCreamForm from "./NewCreamForm";
 
 
