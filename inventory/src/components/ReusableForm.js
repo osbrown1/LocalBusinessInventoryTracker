@@ -14,7 +14,7 @@ function ReusableForm(props) {
         <input
           type='text'
           name='brand'
-          placeholder='Type of Brand' />
+          placeholder='Brand' />
           <br/>
           <br/>
         <textarea
