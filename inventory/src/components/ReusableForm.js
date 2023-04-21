@@ -7,13 +7,13 @@ function ReusableForm(props) {
       <form onSubmit={props.formSubmissionHandler}>
         <input
           type='text'
-          flavor='flavor'
+          name='flavor'
           placeholder='Flavor of Ice Cream' />
           <br/>
           <br/>
         <input
           type='text'
-          flavor='brand'
+          name='brand'
           placeholder='Type of Brand' />
           <br/>
           <br/>

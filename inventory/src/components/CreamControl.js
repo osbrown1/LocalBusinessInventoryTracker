@@ -58,7 +58,7 @@ class CreamControl extends React.Component {
     }
   }
 
-  handleDeleteingCream = (id) => {
+  handleDeletingCream = (id) => {
     const newMainCreamList = this.state.mainCreamList.filter(cream => cream.id !== id);
     this.setState({
       mainCreamList: newMainCreamList,
@@ -76,7 +76,7 @@ class CreamControl extends React.Component {
       currentlyVisibleState = 
       <CreamDetail 
       cream = {this.state.selectedCream} 
-      onClickingDelete = {this.handleDeleteingCream} 
+      onClickingDelete = {this.handleDeletingCream} 
       onClickingEdit = {this.handleEditClick} />
       buttonText = "Return to Ice Cream List";
     }
