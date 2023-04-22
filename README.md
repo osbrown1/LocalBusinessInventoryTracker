@@ -1,4 +1,4 @@
-# _Toilet Tracker_
+# _Ice Cream Review Tracker_
 
 #### By Owen Brown
 #### _A web application to review Ice Cream_
