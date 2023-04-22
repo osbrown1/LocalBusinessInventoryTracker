@@ -1,3 +1,39 @@
+# _Toilet Tracker_
+
+#### By Owen Brown
+#### _A web application to review Ice Cream_
+
+![DiagramIceCream](https://user-images.githubusercontent.com/84750659/233750714-9d5f00cc-297d-469a-b8ab-f1c638dd76b6.png) 
+
+## Technologies Used
+
+- _JavaScript_
+- _HTML_
+- _CSS_
+- _Webpack_
+- _React_
+- _Eslint_
+- _Babel_
+- _Node_
+
+## Goal/Description
+
+_This project objective is to allow the user to add reviews to the ice cream they've tried. They can fill out a form that lets them list the flavor and the brand, and then leave a review._
+
+## Setup/Installation Requirements
+- Clone or download to your local repository
+- run npm install
+- npm run start to build and launch server
+
+
+## Known Bugs
+
+- Updating the form throws errors
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +104,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+Copyright (c) 2023 Owen Brown
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
