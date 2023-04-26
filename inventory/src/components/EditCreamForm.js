@@ -7,7 +7,7 @@ function EditCreamForm (props) {
   function handleEditCreamFormSubmission(event) {
     event.preventDefault();
     props.onEditCream({
-      flavors: event.target.flavors.value,
+      flavor: event.target.flavor.value,
       brand: event.target.brand.value,
       rating: event.target.rating.value,
       id: cream.id});
